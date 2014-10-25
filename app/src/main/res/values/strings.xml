@@ -8,5 +8,18 @@
     <string name="localice">Localizar</string>
     <string name="search">Busqueda</string>
     <string name="title_activity_localiced_screeen">LocalicedScreeen</string>
-
+    <string name="searchsummary">Activa la busqueda periodica</string>
+    <string name="name">Nombre</string>
+    <string name="nameSummary">Nombre de la mascota</string>
+    <string name="timesearch">Tiempo entre Busqueda</string>
+    <string name="timesummary">Tiempo entre busquedas</string>
+    <string name="general">General</string>
+    <string name="notificaciones">Notificaciones</string>
+    <integer-array name="tiempos">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>45</item>
+        <item>60</item>
+    </integer-array>
 </resources>
