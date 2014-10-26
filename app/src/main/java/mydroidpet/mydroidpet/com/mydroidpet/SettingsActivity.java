@@ -58,6 +58,7 @@ public class SettingsActivity extends PreferenceActivity {
         categorynotif.setTitle(getString(R.string.notificaciones));
         getPreferenceScreen().addPreference(categorynotif);
         addPreferencesFromResource(R.xml.pref_notification);
+
     }
 
 }
